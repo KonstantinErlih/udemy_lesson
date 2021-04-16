@@ -1,2 +1,2 @@
 Пробуем git
-Github
+Github проба
