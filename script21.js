@@ -35,6 +35,8 @@ console.log(array);
 
 
 
+
+
 // Свойство length — последний индекс +1
 // arr[99] = 34;
 // console.log(arr.length); // 100
