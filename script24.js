@@ -53,7 +53,7 @@ let personalMovieDB = {
             }
         }
         personalMovieDB.genres.forEach((item, i) => {
-            console.log(`Любимый жанр ${i+1} - это ${item}`);
+            console.log(`Любимый жанр ${i + 1} - это ${item}`);
         });
     },
     detectePersonalLevel: function () {
